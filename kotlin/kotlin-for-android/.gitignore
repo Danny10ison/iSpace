@@ -1,0 +1,8 @@
+# folders
+.idea
+libs
+out
+submittedtxt
+
+#files
+kotlin-for-android.iml
